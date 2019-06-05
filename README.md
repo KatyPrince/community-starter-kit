@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
+ - I have no idea what I am doing. KMP
 
 ## What it does
 
 FEATURES PLACEHOLDER
+ - Not a clue here either. KMP
 
 ## Getting started
 
